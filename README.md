@@ -1,7 +1,7 @@
-# Complete Machine Learning Project Implementation
+# Student Final Exam Marks Prediction
 
 ## Project Overview
-This repository contains an end-to-end implementation of a machine learning project, demonstrating the complete lifecycle of a ML application from data ingestion to deployment.
+This repository contains an end-to-end implementation of a Student Final Exam Marks Prediction depending on the writing and reading scores, demonstrating the complete lifecycle of a ML application from data ingestion to deployment. This project was developed to understand the modalr way to create ML models.
 
 ## 🎯 Project Objectives
 - Implement a complete machine learning pipeline
@@ -17,20 +17,6 @@ This repository contains an end-to-end implementation of a machine learning proj
 - Flask (for deployment)
 - Additional ML libraries as required
 
-## 📂 Project Structure
-```
-Complete_ML_Project_Implementation/
-├── data/               # Data files and datasets
-├── notebooks/         # Jupyter notebooks for exploration
-├── src/              # Source code
-│   ├── components/   # Modular components
-│   ├── pipeline/     # Training and prediction pipelines
-│   └── utils/       # Utility functions
-├── tests/            # Unit tests
-├── configs/          # Configuration files
-├── models/           # Saved model artifacts
-└── app/             # Web application files
-```
 
 ## 🚀 Features
 1. **Data Processing**
